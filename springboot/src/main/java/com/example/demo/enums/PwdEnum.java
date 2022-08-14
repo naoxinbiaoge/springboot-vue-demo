@@ -9,6 +9,7 @@ import lombok.Getter;
  * @Description 默认密码枚举
  * @Date 2021/12/3 22:25
  */
+//demo
 @Getter
 @AllArgsConstructor
 public enum PwdEnum {
